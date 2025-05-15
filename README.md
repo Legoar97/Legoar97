@@ -6,8 +6,8 @@
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6495ED&center=true&vCenter=true&width=435&lines=Building+intelligent+solutions;Exploring+the+AI+frontier;Data+is+my+playground" alt="Typing SVG" />
   
-  [![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivanpinzon)
-  [![Email](https://img.shields.io/badge/-Get_in_touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ivan.pinzon@example.com)
+  [![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivanramiropinzon)
+  [![Email](https://img.shields.io/badge/-Get_in_touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ivanramiro97@gmail.com)
   ![Profile Views](https://komarev.com/ghpvc/?username=Legoar97&style=flat-square&color=6495ED)
   
 </div>
