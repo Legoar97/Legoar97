@@ -18,6 +18,43 @@ Right now I'm working on **Large Language Models** and their practical applicati
 
 <br/>
 
+## Featured Projects
+
+I build and ship AI-powered products. Both apps are live on Google Play.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://play-lh.googleusercontent.com/dcDeUl4V3YuiWYZ-i10f5DA14o7ZLD9MvbFXiIbA3bFCjPDKMu44Xwg4bb5wm5wcIm9U_rREzPJxSaHlIUYo=s96-rw" width="56" align="left" alt="Colibrí icon"/>
+      <h3>&nbsp;Colibrí</h3>
+      <p><i>Learn languages by speaking with an AI tutor.</i></p>
+      <ul>
+        <li>Real-time <b>voice conversations</b> with an AI tutor that adapts to your level</li>
+        <li>Non-intrusive <b>live corrections</b> saved for later review</li>
+        <li>Word-level <b>pronunciation feedback</b></li>
+        <li>Full A1–C1 curriculum with <b>spaced repetition</b> of your own mistakes</li>
+      </ul>
+      <a href="https://play.google.com/store/apps/details?id=com.colibri.colibri"><img src="https://img.shields.io/badge/Google_Play-Download-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Get it on Google Play"/></a>
+      <a href="https://speakcolibri.com"><img src="https://img.shields.io/badge/Website-speakcolibri.com-2c5364?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://play-lh.googleusercontent.com/SxG_RDtW-RKjmNIR-aFai4sjFpovJOTdQYwjysJEEUutPvcBS0Y9Ym4xmu-MyC1Gls2YFq7heywkgJvSc7k1=s96-rw" width="56" align="left" alt="Vito icon"/>
+      <h3>&nbsp;Vito</h3>
+      <p><i>An AI that plans your day around your habits, sleep and schedule.</i></p>
+      <ul>
+        <li>Daily priorities generated from <b>sleep, calendar and weather</b> data</li>
+        <li>Wearable integration via <b>Health Connect</b> (sleep, steps, weight)</li>
+        <li>Context-aware <b>AI coach</b> chat that builds habits with you</li>
+        <li>Goal "missions" with <b>adaptive difficulty</b> based on weekly progress</li>
+      </ul>
+      <a href="https://play.google.com/store/apps/details?id=com.vito.habits"><img src="https://img.shields.io/badge/Google_Play-Download-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Get it on Google Play"/></a>
+      <img src="https://img.shields.io/badge/Downloads-1K%2B-0f9d58?style=flat-square" alt="1K+ downloads"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 ## Tech Stack
 
 <table>
