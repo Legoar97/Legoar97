@@ -1,105 +1,76 @@
-<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Iv%C3%A1n%20Pinz%C3%B3n&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20AI&descAlignY=58&descSize=18&animation=fadeIn" alt="Iván Pinzón" width="100%"/>
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9FD9&center=true&vCenter=true&width=600&lines=Turning+data+into+actionable+insights+%F0%9F%93%8A;Building+scalable+ML+solutions+%F0%9F%A4%96;Exploring+LLMs+and+NLP+%F0%9F%A7%A0;Based+in+Colombia+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Iv%C3%A1n%20Pinz%C3%B3n&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Data%20Scientist%20%C2%B7%20Machine%20Learning%20%C2%B7%20NLP&descAlignY=58&descSize=18" alt="Iván Pinzón — Data Scientist" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ivanramiropinzon"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:ivanramiro97@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Legoar97&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS" alt="Profile views"/>
+  <a href="https://linkedin.com/in/ivanramiropinzon"><img src="https://img.shields.io/badge/LinkedIn-ivanramiropinzon-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ivanramiro97@gmail.com"><img src="https://img.shields.io/badge/Email-ivanramiro97%40gmail.com-2c5364?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Location-Colombia-203a43?style=flat-square&logo=googlemaps&logoColor=white" alt="Location: Colombia"/>
 </p>
 
----
+<br/>
 
-## 👨‍💻 About Me
+## About
 
-- 🎓 **Data Science** — Universidad Externado de Colombia *(2022 – 2025)*
-- 📊 Strong foundation in **statistics, machine learning & AI**
-- 🧠 Currently diving deep into **Large Language Models** and their real-world applications
-- ⚙️ Optimizing **end-to-end ML pipelines**
-- 🤝 Passionate about **ethical AI** and open-source data science
-- 🌎 Spanish (native) · English (professional)
+I'm a **Data Scientist** with a solid foundation in statistics, machine learning and artificial intelligence, trained at **Universidad Externado de Colombia**. I focus on turning complex data into decisions — from exploratory analysis and experimental design to production-ready ML pipelines.
 
----
+Right now I'm working on **Large Language Models** and their practical applications, end-to-end pipeline optimization, and responsible, ethical use of AI.
 
-## 🛠️ Tech Stack
+<br/>
 
-**Languages**
+## Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,postgres&theme=dark" alt="Languages"/>
-</p>
+<table>
+  <tr>
+    <td width="190"><b>Languages & Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=py,r,postgres,mongodb,redis&theme=dark&perline=10" alt="Python, R, PostgreSQL, MongoDB, Redis"/></td>
+  </tr>
+  <tr>
+    <td><b>Machine Learning</b></td>
+    <td><img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,anaconda&theme=dark&perline=10" alt="scikit-learn, TensorFlow, PyTorch, Anaconda"/></td>
+  </tr>
+  <tr>
+    <td><b>Engineering & Cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=fastapi,flask,django,docker,aws,gcp,git,github&theme=dark&perline=10" alt="FastAPI, Flask, Django, Docker, AWS, GCP, Git, GitHub"/></td>
+  </tr>
+  <tr>
+    <td><b>Libraries & BI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+      <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" alt="spaCy"/>
+      <img src="https://img.shields.io/badge/XGBoost-189FDD?style=flat-square" alt="XGBoost"/>
+      <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square" alt="LightGBM"/>
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/>
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+    </td>
+  </tr>
+</table>
 
-**Machine Learning & AI**
+<br/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logoColor=white"/>
-</p>
+## Areas of Expertise
 
-**Data Analysis & Visualization**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
-
-**Development & Deployment**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,mongodb,redis,django,flask,fastapi&theme=dark" alt="Dev tools"/>
-</p>
-
----
-
-## 🎯 Areas of Expertise
-
-| 📈 Analytics | 🤖 Machine Learning | 🏗️ Engineering |
+| Analytics | Machine Learning | Engineering |
 |:--|:--|:--|
-| Statistical Analysis & Predictive Modeling | ML Pipeline Development | Data Engineering & ETL |
-| Time Series Analysis | Natural Language Processing | Model Deployment (Docker, Cloud) |
-| A/B Testing & Experimental Design | Computer Vision | APIs with FastAPI / Flask |
+| Statistical analysis & predictive modeling | ML pipeline development | Data engineering & ETL |
+| Time series analysis | Natural Language Processing | Model deployment (Docker, AWS, GCP) |
+| A/B testing & experimental design | Computer vision | APIs with FastAPI / Flask |
 
----
+<br/>
 
-## 📊 GitHub Stats
+## Education
 
-<p align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Legoar97&theme=tokyonight" alt="Profile summary"/>
-</p>
+**B.Sc. in Data Science** — Universidad Externado de Colombia &nbsp;·&nbsp; *2022 – 2025*
 
-<p align="center">
-  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Legoar97&theme=tokyonight" alt="GitHub stats"/>
-  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Legoar97&theme=tokyonight" alt="Top languages"/>
-</p>
+<br/>
 
-<p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=Legoar97&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
+## Let's Connect
 
----
-
-## 📫 Let's Connect
-
-I'm always interested in discussing data science projects, collaboration opportunities, or industry challenges. Feel free to reach out via [LinkedIn](https://linkedin.com/in/ivanramiropinzon) or [email](mailto:ivanramiro97@gmail.com).
+I'm open to data science roles, collaborations and interesting problems. The best way to reach me is on [LinkedIn](https://linkedin.com/in/ivanramiropinzon) or by [email](mailto:ivanramiro97@gmail.com).
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" alt=""/>
 </p>
