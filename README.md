@@ -19,16 +19,12 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legoar97&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
-
 - 🎓 **Data Science** — Universidad Externado de Colombia *(2022 – 2025)*
 - 📊 Strong foundation in **statistics, machine learning & AI**
 - 🧠 Currently diving deep into **Large Language Models** and their real-world applications
 - ⚙️ Optimizing **end-to-end ML pipelines**
 - 🤝 Passionate about **ethical AI** and open-source data science
 - 🌎 Spanish (native) · English (professional)
-
-<br clear="right"/>
 
 ---
 
@@ -86,12 +82,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Legoar97&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=Legoar97&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Legoar97&theme=tokyonight" alt="Profile summary"/>
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Legoar97&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph"/>
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Legoar97&theme=tokyonight" alt="GitHub stats"/>
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Legoar97&theme=tokyonight" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=Legoar97&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
